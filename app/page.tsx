@@ -76,7 +76,7 @@ export default function Home() {
               />
               <p id="talent-share-note" className="text-[0.6875rem] leading-relaxed font-normal text-white/60">
                 Als je op een van de knoppen hierboven klikt, ga je naar de
-                applicatie van Talent Share, partner van Tech Talent.
+                applicatie van Talent Share, partner van Tech-talent.nu.
               </p>
             </div>
           </div>
